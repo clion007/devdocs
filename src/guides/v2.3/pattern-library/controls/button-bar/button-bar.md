@@ -1,0 +1,1 @@
+../../../../../guides/v2.2/pattern-library/controls/button-bar/button-bar.md

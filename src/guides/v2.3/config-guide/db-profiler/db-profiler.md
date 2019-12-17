@@ -1,0 +1,1 @@
+../../../../guides/v2.2/config-guide/db-profiler/db-profiler.md

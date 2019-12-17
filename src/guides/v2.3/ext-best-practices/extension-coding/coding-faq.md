@@ -1,0 +1,1 @@
+../../../../guides/v2.2/ext-best-practices/extension-coding/coding-faq.md

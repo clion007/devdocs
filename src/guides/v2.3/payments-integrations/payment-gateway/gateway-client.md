@@ -1,0 +1,1 @@
+../../../../guides/v2.2/payments-integrations/payment-gateway/gateway-client.md

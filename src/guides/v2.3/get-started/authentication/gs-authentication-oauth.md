@@ -1,0 +1,1 @@
+../../../../guides/v2.2/get-started/authentication/gs-authentication-oauth.md

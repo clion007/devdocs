@@ -1,0 +1,1 @@
+../../../../guides/v2.2/config-guide/secy/secy-xframe.md

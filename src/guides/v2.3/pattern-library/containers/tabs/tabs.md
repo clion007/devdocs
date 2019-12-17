@@ -1,0 +1,1 @@
+../../../../../guides/v2.2/pattern-library/containers/tabs/tabs.md

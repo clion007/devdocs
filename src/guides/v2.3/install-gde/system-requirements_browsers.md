@@ -1,0 +1,1 @@
+../../../guides/v2.2/install-gde/system-requirements_browsers.md

@@ -1,0 +1,1 @@
+../../../guides/v2.2/install-gde/continue-to-verify_cli.md

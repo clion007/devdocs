@@ -1,0 +1,1 @@
+../../../../guides/v2.2/extension-dev-guide/cache/page-caching.md

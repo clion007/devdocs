@@ -1,0 +1,1 @@
+../../../../guides/v2.2/ext-best-practices/extension-coding/working-with-arch-bp.md
